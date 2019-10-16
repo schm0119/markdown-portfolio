@@ -1,2 +1,2 @@
-https://github.com/schm0119
-## here is my link to GITHUB profile !
+
+([Hello! Here is my profile](https://github.com/schm0119))
